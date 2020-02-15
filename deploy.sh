@@ -4,5 +4,3 @@ thank you
 
 
 Adding a new line to the script
-
-Updated one
